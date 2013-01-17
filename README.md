@@ -1,4 +1,4 @@
 django-simple-blog
 ==================
 
-This project has moved.
+This project has moved to https://github.com/jhgaylor/django-blogger
